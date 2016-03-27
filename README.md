@@ -8,7 +8,7 @@ https://addons.mozilla.org/addon/holytransaction/
 #### Currencies:
 * USD = Dollar
 * EUR = Euro
-* BTCBitcoin
+* BTC = Bitcoin
 * LTC = Litecoin
 * PPC = Peercoin
 * DOGE = Dogecoin
