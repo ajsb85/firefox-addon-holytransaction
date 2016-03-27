@@ -23,13 +23,15 @@ https://addons.mozilla.org/addon/holytransaction/
 ## Support
 Filing a bug at https://github.com/ajsb85/firefox-addon-holytransaction/issues
 
+### Screencast
+[![holytransaction-video](http://img.youtube.com/vi/Ajf9vD9XqLA/0.jpg)](http://www.youtube.com/watch?v=Ajf9vD9XqLA)
+
 ### Preview Screenshots
-[![holytransaction-video](http://img.youtube.com/vi/Ajf9vD9XqLA/0.jpg)](http://www.youtube.com/watch?v=Ajf9vD9XqLA) <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen1.png "holytransaction") <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen2.png "holytransaction") <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen3.png "holytransaction") <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen4.png "holytransaction") <br/>
-![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen5.png "holytransaction") 
+![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen5.png "holytransaction")
 
 ### Works with:
 
