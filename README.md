@@ -1,4 +1,4 @@
-![holytransaction-logo](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/logo/ht_logo_small.png "holytransaction")
+![holytransaction-logo](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/logo/ht_logo_small.png "holytransaction") <br/>
 Add-on to see the exchange rates for all crypto currency pairs.
 
 ### Download
