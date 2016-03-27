@@ -1,0 +1,150 @@
+{
+  "title": "HolyTransaction",
+  "name": "holytransaction",
+  "version": "1.0.0",
+  "id": "{e8281278-ec99-4f94-90da-6029d3061d77}",
+  "description": "Add-on to see the exchange rates for all crypto currency pairs.",
+  "homepage": "http://holytransaction.com/",
+  "main": "lib/main.js",
+  "locales": {
+    "es": {
+      "title": "HolyTransaction",
+      "description": "Add-on para ver los tipos de cambio de crypto divisas."
+    }
+  },
+  "author": {
+    "name": "Alexander J. Salas B.",
+    "email": "a.salas@ieee.org",
+    "url": "http://ajsb85.com/"
+  },
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "permissions": {
+    "multiprocess": true,
+    "private-browsing": true,
+    "cross-domain-content": [
+      "https://api.holytransaction.com"
+    ]
+  },
+  "preferences": [
+    {
+        "name": "pair",
+        "type": "menulist",
+        "title": "Pair with",
+        "value": "BTC",
+        "options": [
+            {
+                "value": "BTC",
+                "label": "Bitcoin"
+            },
+            {
+                "value": "LTC",
+                "label": "Litecoin"
+            },
+            {
+                "value": "PPC",
+                "label": "Peercoin"
+            },
+            {
+                "value": "DOGE",
+                "label": "Dogecoin"
+            },
+            {
+                "value": "DASH",
+                "label": "Dash"
+            },
+            {
+                "value": "BC",
+                "label": "Blackcoin"
+            },
+            {
+                "value": "GRC",
+                "label": "Gridcoin"
+            },
+            {
+                "value": "USD",
+                "label": "Dollar"
+            },
+            {
+                "value": "EUR",
+                "label": "Euro"
+            }
+        ]
+    },
+    {
+        "type": "integer",
+        "name": "decimals",
+        "value": 3,
+        "title": "Decimal places"
+    },
+    {
+      "name": "USD",
+      "title": "Dollar",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "EUR",
+      "title": "Euro",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "BTC",
+      "title": "Bitcoin",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "LTC",
+      "title": "Litecoin",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "PPC",
+      "title": "Peercoin",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "DOGE",
+      "title": "Dogecoin",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "DASH",
+      "title": "Dash",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "BC",
+      "title": "Blackcoin",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "GRC",
+      "title": "Gridcoin",
+      "type": "bool",
+      "value": true
+    }
+  ],
+  "license": "MPL-2.0",
+  "keywords": [
+    "jetpack",
+    "holytransaction",
+    "crypto",
+    "currency",
+    "bitcoin"
+  ],
+  "bugs": {
+    "url": "https://github.com/ajsb85/firefox-addon-holytransaction/issues"
+  },
+  "dependencies": {
+    "custom-jetpack-panelview": "^0.1.0"
+  }
+}
