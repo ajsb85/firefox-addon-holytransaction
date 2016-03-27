@@ -1,5 +1,4 @@
 ![holytransaction-logo](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/logo/ht_logo_small.png "holytransaction")
-# Holy Transaction
 Add-on to see the exchange rates for all crypto currency pairs.
 
 ### Download
@@ -28,10 +27,10 @@ Filing a bug at https://github.com/ajsb85/firefox-addon-holytransaction/issues
 
 ### Preview Screenshots
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen1.png "holytransaction") <br/>
-![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen2.png "holytransaction") <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen3.png "holytransaction") <br/>
 ![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen4.png "holytransaction") <br/>
-![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen5.png "holytransaction")
+![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen5.png "holytransaction") <br/>
+![holytransaction-png](https://raw.github.com/ajsb85/firefox-addon-holytransaction/master/press/screens/screen2.png "holytransaction")
 
 ### Works with:
 
