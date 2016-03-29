@@ -1,0 +1,9 @@
+*.xpi
+.*
+*.md
+docs/
+*~
+node_modules/jpm
+demo/
+test/
+press/
