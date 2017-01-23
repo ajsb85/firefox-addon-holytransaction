@@ -2,6 +2,8 @@
 Add-on to see the exchange rates for all crypto currency pairs.
 
 ### Download
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/firefox-addon-holytransaction.svg)](https://greenkeeper.io/)
 https://addons.mozilla.org/addon/holytransaction/
 
 #### Currencies:
